@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "jinnahpc.aternos.me:53452",
+    "ip": "jinnahpc.aternos.me",
     "port": 53452,
     "version": "",
     "try-creative": false
